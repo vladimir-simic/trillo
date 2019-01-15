@@ -1,0 +1,5 @@
+img/SVG/*.svg
+img/*.svg
+img/*.png
+img/*.jpg
+img/text.txt
